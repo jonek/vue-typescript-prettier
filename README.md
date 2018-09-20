@@ -1,4 +1,4 @@
-# foo
+# vue-typescript-prettier
 
 ## Project setup
 ```
